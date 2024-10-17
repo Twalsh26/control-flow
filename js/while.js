@@ -34,9 +34,10 @@
 // console.log9"that's oa lot of ninjas');
 // }
 
-const password = 'p@ass';
+//const password = 'p@ass';
 
-(password.length >= 8){
-    console.log('that password is long enough!');
-}
+//(password.length >= 8){
+   // console.log('that password is long enough!');
+//}
+
 
